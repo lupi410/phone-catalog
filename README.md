@@ -4,13 +4,13 @@ Phone catalog is a ReactJS app that consumes a NodeJS backend with in-memory dat
 
 ## RUN API
 
-`cd api`
-`npm install`
-`npm run dev`
+1. `cd api`
+2. `npm install`
+3. `npm run dev`
 
 ## Then, RUN APP
 
-`cd ..`
-`cd front`
-`npm install`
-`npm start`
+4. `cd ..`
+5. `cd front`
+6. `npm install`
+7. `npm start`
